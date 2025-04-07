@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    font-family: monospace;
+    background-color: rgb(204, 139, 193);
+    color: black;
+}
+
+img {
+    border-radius: 5px;
+    box-shadow: 5px;
+}
